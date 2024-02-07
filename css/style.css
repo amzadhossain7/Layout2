@@ -1,0 +1,57 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: aqua;
+    text-align: center;
+    height: 100px;
+    font-size: 30px;
+    color:white ;
+}
+.banner{
+    background-color:yellowgreen ;
+    text-align: center;
+    height: 200px;
+    font-size: 25px;
+    color:hotpink;
+}
+.part{
+    display: flex;
+}
+.section{
+    background-color: blue;
+    width: 50%;
+    height: 300px;
+    text-align: center;
+    color: azure;
+}
+.section_two{
+    background-color: cadetblue;
+    height: 50%;
+    color:firebrick ;
+    font-size: 20px;
+}
+.section_one{
+    background-color: lightcoral;
+    height: 50%;
+    font-size: 20px;
+}
+.section_three{
+    background-color: cornflowerblue;
+    width: 50%;
+    text-align: center;
+    font-size: 20px;
+    color:deeppink;
+}
+.footer_main{
+    background-color: blueviolet;
+    height: 100px;
+    text-align: center;
+    color: aliceblue;
+}
+.footer{
+    color:rgb(226, 199, 146) ;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
